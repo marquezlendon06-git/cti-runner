@@ -1,13 +1,14 @@
 ```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║   ____  ____  ___       ____                                                ║
-║  / ___|_   _||_ _|     |  _ \ _   _ _ __  _ __   ___ _ __                  ║
-║ | |     | |  | |  ___  | |_) | | | | '_ \| '_ \ / _ \ '__|                 ║
-║ | |___  | |  | | |___| |  _ <| |_| | | | | | | |  __/ |                    ║
-║  \____|_|_| |___|      |_| \_\\__,_|_| |_|_| |_|\___|_|                    ║
-║                                                                              ║
-║          AI-Powered Cyber Threat Intelligence Agent  v1.0                   ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════╗
+║    ____ _____ ___      ____                                ║
+║   / ___|_   _|_ _|    |  _ \ _   _ _ __  _ __   ___ _ __   ║
+║  | |     | |  | |_____| |_) | | | | '_ \| '_ \ / _ \ '__|  ║
+║  | |___  | |  | |_____|  _ <| |_| | | | | | | |  __/ |     ║
+║   \____| |_| |___|    |_| \_\\__,_|_| |_|_| |_|\___|_|     ║
+║                                                            ║
+║                                                            ║
+║      AI-Powered Cyber Threat Intelligence Agent  v1.0      ║
+╚════════════════════════════════════════════════════════════╝
 ```
 
 An AI-powered CTI investigation agent. Drop in a seed indicator — domain, IP, file hash, or crypto wallet — and Claude pivots through cert transparency, passive DNS, WHOIS history, Shodan, VirusTotal, AlienVault OTX, urlscan.io, Intelligence X, and blockchain explorers to build a threat actor/campaign picture, then produces a finished Diamond Model intelligence report.
