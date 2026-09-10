@@ -1,0 +1,23 @@
+# CTI-Pivot Agent Configuration
+# Copy to config.yaml and fill in your API keys
+
+# Required — https://console.anthropic.com
+anthropic_api_key: ""
+
+# Free tier — https://www.virustotal.com/gui/join-us
+virustotal_api_key: ""
+
+# Free tier — https://account.shodan.io/register
+shodan_api_key: ""
+
+# Free — https://otx.alienvault.com/accounts/register
+otx_api_key: ""
+
+# Free (optional, increases rate limits) — https://urlscan.io/user/signup
+urlscan_api_key: ""
+
+# Free — https://etherscan.io/register (for blockchain tracing)
+etherscan_api_key: ""
+
+# Free tier — https://intelx.io/account?tab=developer (dark web, paste sites, leaks, Telegram)
+intelx_api_key: ""
