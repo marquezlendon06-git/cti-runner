@@ -146,7 +146,7 @@ The `generate_investigation_report` tool produces this as an HTML report saved t
 
 ---
 
-## Blockchain Tracing (TRM-style)
+## Blockchain Tracing
 
 For ransomware attribution or crypto-payment tracing:
 
